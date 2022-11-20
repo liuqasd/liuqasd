@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @liuqasd
-- 👀 I’m interested in eat and sleep
-- 🌱 I’m currently learning code
+- 👋 Hi, I’m @liuqasd👀 
+- 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me bzdliu921@gmail.com
 
