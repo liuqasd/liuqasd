@@ -3,8 +3,6 @@
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me bzdliu921@gmail.com
 
-
-
 ## Most used languages
 
 <div> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liuqasd&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" /> </div>
